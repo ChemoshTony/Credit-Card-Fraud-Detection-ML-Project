@@ -29,18 +29,18 @@ If "Accuracy on Training Data(0.500 = 50%) < Accuracy on Test Data(0.900 = 90%)"
 If "Accuracy on Training Data(0.900 = 90%) = Accuracy on Test Data(0.900 = 90%)" Then Model performs very well.
 
 Logistic Regression Model :
-Accuracy on Training Data : 0.9390088945362135
-Accuracy on Test Data :  0.9238578680203046
+Accuracy on Training Data : 0.9390088945362135.
+Accuracy on Test Data :  0.9238578680203046.
 Therfore, Then Model performs very well.
 
 SVC/SVM Model :
-Accuracy on Training Data : 0.9085133418043202
-Accuracy on Test Data :  0.9035532994923858
+Accuracy on Training Data : 0.9085133418043202.
+Accuracy on Test Data :  0.9035532994923858.
 Therfore, Then Model performs very well.
 
 Decison Tree Classifier Model :
-Accuracy on Training Data : 0.9542566709021602
-Accuracy on Test Data :  0.883248730964467
+Accuracy on Training Data : 0.9542566709021602.
+Accuracy on Test Data :  0.883248730964467.
 Therfore, Then Model performs very well.
 
 ![](Decision_Tree_Classifier.png)
